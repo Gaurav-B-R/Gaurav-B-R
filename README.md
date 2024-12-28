@@ -18,6 +18,17 @@ Welcome to my GitHub profile! I'm a passionate data scientist and machine learni
 
 ---
 
+## 💼 Professional Experience
+### **Data Analyst**  
+**SignDesk (Desk Nine Pvt Ltd), Bengaluru, India** (Dec 2021 – Aug 2023)
+- Developed 12+ Python algorithms for predictive modeling, boosting website traffic and optimizing lead generation pipelines.
+- Created dynamic dashboards using **Power BI** and **Looker Studio**, increasing marketing ROI by **16%**.
+- Engineered and optimized ETL processes for datasets exceeding **1TB**, ensuring real-time analytics and business intelligence.
+- Improved website personalization using machine learning models, increasing user engagement by **17%**.
+- Conducted large-scale **A/B testing** and statistical analysis, improving conversion rates by **26%**.
+
+---
+
 ## 💻 Technical Skills
 ### Programming & Tools:
 - **Languages**: Python, R, SQL
