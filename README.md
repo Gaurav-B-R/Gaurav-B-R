@@ -70,7 +70,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist and machine learni
 
 ## 🌐 Let's Connect!
 Feel free to reach out if you're interested in collaborating or learning more about my projects:
-- **Email**: imgauravbr@gmail.com  
+- **Email**: gauravhsn8@gmail.com 
 - **GitHub**: [github.com/Gaurav-B-R](https://github.com/Gaurav-B-R)  
 - **LinkedIn**: [linkedin.com/in/gaurav-b-r/](https://www.linkedin.com/in/gaurav-b-r/)  
 
