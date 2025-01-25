@@ -64,7 +64,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist and machine learni
 ## 🎓 Education
 - **M.S. in Data Analytics (Deep Learning)**, Clark University, Worcester, MA (Aug 2023 – Dec 2024)
 - **Advanced Programme in Data Science**, IIIT Bangalore, India (Sep 2022 – Jun 2023)
-- **B.E. in Computer Science**, BMS Institute of Technology and Management, India (Aug 2017 – Aug 2021)
+- **Bachelor of Engineering**, BMS Institute of Technology and Management, India (Aug 2017 – Aug 2021)
 
 ---
 
