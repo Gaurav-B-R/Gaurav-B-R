@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist and machine learni
 
 ---
 
-## 🔥 Current Project
+## 🔥 Current Project (Personal
 ### [DocuSign CLM Support Chatbot with Retrieval-Augmented Generation (RAG)](https://github.com/Gaurav-B-R/docusign-clm-chatbot-rag)
 - Building an intelligent chatbot for DocuSign CLM queries using **RAG**.
 - Leveraging **AWS** (S3, OpenSearch, SageMaker, Textract), **LangChain**, and **Hugging Face Transformers** for state-of-the-art response generation.
