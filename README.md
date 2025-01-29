@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Engineer with 2+ years of e
 
 ---
 
-## 💻  Skills
+## 💻 Technical Skills
 ### Programming & Tools:
 - **Languages**: Python, R, SQL  
 - **Frameworks**: Flask, FastAPI  
