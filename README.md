@@ -1,5 +1,5 @@
 # Hi, I'm Gaurav Bharatavalli Rangaswamy! 👋  
-🚀 **AI/ML  | Data Scientist**
+🚀 **AI/ML Engineer | Data Scientist**
 
 Welcome to my GitHub profile! I'm a passionate AI/ML Engineer with 2+ years of experience building innovative solutions in NLP, computer vision, and generative AI. I specialize in deploying scalable AI applications, predictive modeling, and data engineering, with a proven ability to optimize pipelines for datasets exceeding 1TB.
 
