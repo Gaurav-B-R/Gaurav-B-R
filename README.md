@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Engineer with 2+ years of e
 
 ---
 
-## 💼 Professional Experience
+## 💼  Experience
 ### **AI Engineer**  
 **Health Innovators, Boston, MA** (Dec 2024 – Present)  
 - Developed an **Agentic Retrieval-Augmented Generation (RAG)-based AI chatbot** for patient health screening, delivering accurate and efficient assessments.  
