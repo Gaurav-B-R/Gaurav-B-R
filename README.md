@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Engineer with 2+ years of e
 ---
 
 ## 🎓 Education
-- **Master of Science in Data Analytics (Deep Learning)**, Clark University, Worcester, MA  
+- **Master of Science in Data Analytics **, Clark University, Worcester, MA  
 - **Advanced Programme in Data Science (Deep Learning)**, IIIT Bangalore, India  
 - **Bachelor of Engineering**, BMS Institute of Technology and Management, India  
 
