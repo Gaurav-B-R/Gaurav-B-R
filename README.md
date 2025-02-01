@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Engineer with 2+ years of e
 
 ## 🌟 Featured Projects
 ### [NLP-Powered Chatbot API](https://github.com/Gaurav-B-R/Clark_SPS_NLP_Chatbot)  
-- Developed a scalable NLP-based chatbot using **GPT-2**, **FastAPI**, and **Hugging Face Transformers**.  
+- Developed a scalable NLP chatbot using **GPT-2**, **FastAPI**, and **Hugging Face Transformers**.  
 - Achieved a training loss of **1.638** over 7 epochs, ensuring high-quality conversational responses.  
 
 ### [AI-Based Hair Color Manipulation](https://github.com/Gaurav-B-R/AI-Hair-Color-Manipulation-PyTorch-OpenCV-Rembg)  
