@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Engineer with 2+ years of e
 
 🌟 **Portfolio**: [gaurav-b-r.github.io/portfolio/](https://gaurav-b-r.github.io/portfolio/)  
 💼 **LinkedIn**: [linkedin.com/in/gaurav-b-r/](https://www.linkedin.com/in/gaurav-b-r/)  
-🎓 **Kaggle**: [kaggle.com/gauravbr](https://www.kaggle.com/gauravbr)  
+
 
 ---
 
