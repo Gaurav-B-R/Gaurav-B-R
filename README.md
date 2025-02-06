@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Engineer with 2+ years of e
 
 ## 💼 Professional Experience
 ### **AI Research Engineer**  
-**Health Innovators, Boston, MA** (Dec 2024 – Present
+**Health Innovators, Boston, MA** (Dec 2024 – Present) 
 - Developed an **Agentic Retrieval-Augmented Generation (RAG)-based AI chatbot** for patient health screening, delivering accurate and efficient assessments.  
 - Built an AI agent for **real-time speech-to-text transcription with diarization**, capturing doctor-patient conversations and integrating with LLMs to generate comprehensive summaries and reports.  
 - Optimized transcription solutions using **Pyannote**, **OpenAI Whisper**, **AWS Transcribe**, and **Google Speech-to-Text API**, focusing on speed, latency, and accuracy.
