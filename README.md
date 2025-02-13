@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Engineer with experience bu
 - Optimized transcription solutions using **Pyannote**, **OpenAI Whisper**, **AWS Transcribe**, and **Google Speech-to-Text API**, focusing on speed, latency, and accuracy.
 
 ### **Data Analyst**  
-**SignDesk (Desk Nine Pvt Ltd), Bengaluru, India** (Dec 2021 – Aug 2023)  
+**SignDesk (Desk Nine Pvt Ltd), Bengaluru, IN** (Dec 2021 – Aug 2023)  
 - Developed 12+ Python algorithms leveraging advanced machine learning models for predictive data modeling and statistical analysis, enhancing lead generation pipelines.  
 - Streamlined ETL processes for marketing datasets (4-5 million data points), enabling efficient analysis of **1TB+ data**.  
 - Designed 20+ dynamic **Power BI dashboards**, increasing ROI by **16%** through data-driven marketing strategies.  
