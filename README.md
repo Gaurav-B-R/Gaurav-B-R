@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Engineer with 2+ years of e
 - Enhanced AML (Anti-Money Laundering) monitoring, reducing false positives by 20% through Bayesian optimization on suspicious transaction detection models.
 - Automated fraudulent claims detection, reducing false claims by 35% using NLP models on unstructured claim documents and call transcripts.
 - Engineered ETL pipelines for 50000+ health insurance claims, extracting ICD and CPT codes with SQL, cutting processing time by 35%.
-Deployed dynamic policy pricing models, adjusting premiums based on telematics and driver risk scores, optimizing underwriting accuracy.
+- Deployed dynamic policy pricing models, adjusting premiums based on telematics and driver risk scores, optimizing underwriting accuracy.
 
 ---
 
