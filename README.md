@@ -33,6 +33,16 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Engineer with 2+ years of e
 - Improved website personalization with **ML-based recommendation models**, boosting user engagement by **17%**.  
 - Conducted large-scale **A/B testing**, improving conversion rates by **26%** through statistical analysis.
 
+### **Machine Learning Engineer**  
+**Prosoft Associates Inc, Remote** (Mar 2019 – Dec 2021)  
+- Developed real-time payment fraud detection models, improving anomaly detection by 25% using XGBoost and transaction risk scoring on streaming data.
+Built and deployed instant credit risk models using AWS SageMaker, optimizing loan approval decisions by analyzing borrower behavior and credit bureau data.
+Reduced inference latency by 40% for automated loan approvals, deploying ML models via FastAPI to process real-time risk assessments in under 100ms.
+Enhanced AML (Anti-Money Laundering) monitoring, reducing false positives by 20% through Bayesian optimization on suspicious transaction detection models.
+Automated fraudulent claims detection, reducing false claims by 35% using NLP models on unstructured claim documents and call transcripts.
+Engineered ETL pipelines for 50000+ health insurance claims, extracting ICD and CPT codes with SQL, cutting processing time by 35%.
+Deployed dynamic policy pricing models, adjusting premiums based on telematics and driver risk scores, optimizing underwriting accuracy.
+
 ---
 
 ## 💻 Technical Skills
