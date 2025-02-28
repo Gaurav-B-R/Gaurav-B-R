@@ -85,7 +85,7 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Engineer with experience bu
 
 ---
 
-## 🌐 Let's Connect!
+## 🌐 Let's !
 Feel free to reach out if you're interested in collaborating or learning more about my projects:  
 - **Email**: gauravhsn8@gmail.com  
 - **GitHub**: [github.com/Gaurav-B-R](https://github.com/Gaurav-B-R)  
